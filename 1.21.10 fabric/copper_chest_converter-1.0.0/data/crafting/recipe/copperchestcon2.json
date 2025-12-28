@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "pattern": [
+    "#SY",
+    "OLU",
+    "MBZ"
+  ],
+  "key": {
+    "L": "tinymobfarm:ultimate_farm",
+    "#": "minecraft:torchflower",
+    "S": "minecraft:netherite_block",
+    "Y": "minecraft:turtle_helmet",
+    "O": "travelersbackpack:sponge",
+    "U": "minecraft:creaking_heart",
+    "M": "minecraft:silence_armor_trim_smithing_template",
+    "Z": "minecraft:mace",
+    "B": [
+      ""
+    ]
+  },
+  "ingredients": [
+    [
+      "reinfchest:copper_chest"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:copper_chest",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "flightringrecipe",
+    "version": "1.0.0",
+    "name": "Flight Ring Recipe",
+    "description": "SUPA RECIPE",
+    "authors": [
+        "Zelly_9191"
+    ],
+    "contact": {},
+    "license": "CC0-1.0",
+    "environment": "*",
+    "entrypoints": {
+        "main": []
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.15.0",
+        "minecraft": ">=1.21"
+    },
+    "icon": "assets/flightringrecipe/icon.png"
+}

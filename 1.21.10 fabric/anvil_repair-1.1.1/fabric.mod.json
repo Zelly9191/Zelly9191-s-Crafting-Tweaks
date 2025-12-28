@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "zanvilrepair555",
+    "version": "1.1.1",
+    "name": "Anvil Repair",
+    "description": "Repair your anvil in the crafting grid!",
+    "authors": [
+        "Zelly_9191"
+    ],
+    "contact": {},
+    "license": "CC0-1.0",
+    "environment": "*",
+    "entrypoints": {
+        "main": []
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.15.0",
+        "minecraft": ">=1.21"
+    },
+    "icon": "assets/zanvilrepair555/icon.png"
+}

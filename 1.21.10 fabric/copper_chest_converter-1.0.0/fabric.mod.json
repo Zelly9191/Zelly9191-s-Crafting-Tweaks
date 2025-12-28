@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "copperchestconverter",
+    "version": "1.0.0",
+    "name": "Copper Chest Converter",
+    "description": "Convert between Copper Chests",
+    "authors": [
+        "Zelly_9191"
+    ],
+    "contact": {},
+    "license": "CC0-1.0",
+    "environment": "*",
+    "entrypoints": {
+        "main": []
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.15.0",
+        "minecraft": ">=1.21"
+    },
+    "icon": "assets/copperchestconverter/icon.png"
+}
