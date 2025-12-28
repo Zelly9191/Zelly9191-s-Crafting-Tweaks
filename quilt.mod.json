@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "com.modrinth",
+    "id": "zellycrt555",
+    "version": "1.21.1",
+    "metadata": {
+      "name": "Zelly9191's Crafting Tweaks",
+      "description": "Zelly9191's Crafting Tweaks",
+      "icon": "pack.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "depends": [
+      {
+        "id": "quilt_resource_loader",
+        "versions": "*",
+        "unless": "fabric-resource-loader-v0"
+      }
+    ]
+  }
+}
